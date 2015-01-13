@@ -1,0 +1,8 @@
+{
+    "require": {
+        "silex/silex": "~1.1",
+        "twig/twig": "~1.0",
+        "symfony/twig-bridge": "~2.3",
+        "bshaffer/oauth2-server-php": "v1.3"
+    }
+}
